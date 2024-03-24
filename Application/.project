@@ -1624,6 +1624,11 @@
 			<location>/home/franz/esp-idf-v5.2.1/components/esp_eth/src/esp_eth.c</location>
 		</link>
 		<link>
+			<name>build/ide/esp_idf_components/esp_eth/src/esp_eth_mac_w5500.c</name>
+			<type>1</type>
+			<location>/home/franz/esp-idf-v5.2.1/components/esp_eth/src/esp_eth_mac_w5500.c</location>
+		</link>
+		<link>
 			<name>build/ide/esp_idf_components/esp_eth/src/esp_eth_netif_glue.c</name>
 			<type>1</type>
 			<location>/home/franz/esp-idf-v5.2.1/components/esp_eth/src/esp_eth_netif_glue.c</location>
@@ -1632,6 +1637,11 @@
 			<name>build/ide/esp_idf_components/esp_eth/src/esp_eth_phy_802_3.c</name>
 			<type>1</type>
 			<location>/home/franz/esp-idf-v5.2.1/components/esp_eth/src/esp_eth_phy_802_3.c</location>
+		</link>
+		<link>
+			<name>build/ide/esp_idf_components/esp_eth/src/esp_eth_phy_w5500.c</name>
+			<type>1</type>
+			<location>/home/franz/esp-idf-v5.2.1/components/esp_eth/src/esp_eth_phy_w5500.c</location>
 		</link>
 		<link>
 			<name>build/ide/esp_idf_components/esp_gdbstub/src/gdbstub.c</name>
